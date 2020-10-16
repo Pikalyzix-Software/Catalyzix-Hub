@@ -1,8 +1,10 @@
-## Pikalyzix Hub
-Pikalyzix Hub Is a Multi-Game Hub with support for games such as arsenal, prison life, a bizarre day, and more!
-
-Discord Server: https://discord.gg/pKkUEDV
-
-Creators: Pikalyzix#2012 and Vault ilmo#0001
-
-Contributors: Dino#3523 - UI Lib
+### Pikalyzix-Software-Release
+**Game Support**
+```
+*1401417393 Ragdoll System Test
+*4169490976 Mortem Metallum
+*23578803 Hotel Elephant
+*2686500207 [SANDBOX] A Bizarre Day
+*2041312716 Ragdoll Engine
+*71315343 Dragon Ball Rage
+```
