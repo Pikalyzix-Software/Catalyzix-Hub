@@ -5,7 +5,7 @@
  |  __/| |   < (_| | | |_| |/ /| |>  <  |  _  | |_| | |_) |
  |_|   |_|_|\_\__,_|_|\__, /___|_/_/\_\ |_| |_|\__,_|_.__/ 
                       |___/
-                      Copy Right by Pikalyzix Hub
+                      (C)Pikalyzix Software And Scripting
                       Credits : {
                       722485792076988586 - Pikalyzix#2012
                       757148941346144256 - Vault ilmo#0001
