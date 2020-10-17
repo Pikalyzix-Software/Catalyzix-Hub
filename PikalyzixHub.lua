@@ -8,7 +8,7 @@
                       (C)Pikalyzix Software And Scripting
                       Credits : {
                       722485792076988586 - Pikalyzix#2012
-                      757148941346144256 - Vault ilmo#0001
+                      757148941346144256 - Vaultary#0001
 ]]
 
 if game.PlaceId == 1401417393 then
@@ -23,4 +23,6 @@ elseif game.PlaceId == 2041312716 then
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/RagdollEngine.lua'),true))()
 elseif game.PlaceId == 71315343 then
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/DBR.lua'),true))()
+elseif game.PlaceId == 537413528 then
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/BuildABoat.lua'),true))()
 end
