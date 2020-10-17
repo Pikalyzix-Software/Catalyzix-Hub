@@ -27,5 +27,7 @@ elseif game.PlaceId == 537413528 then
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/BuildABoat.lua'),true))()
 elseif game.PlaceId == 189707 then
   loadstring(game:HttpGet(('https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/NaturalDisasterSurvival.lua'),true))()
+elseif game.PlaceId == 318978013 then
+  loadstring(game:HttpGet(('https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/KickOff.lua'),true))()
 end
 
