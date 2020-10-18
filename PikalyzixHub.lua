@@ -60,5 +60,5 @@ elseif game.PlaceId == 155615604 then
   end)
 end
 
-return library
+return GetPikaLibrary
 
