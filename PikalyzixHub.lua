@@ -12,7 +12,9 @@
                       757148941346144256 - Vaultary#0001
 ]]
 
-local PikalyzixHub = library:StartWindow()
+local GetPikaLibrary = loadstring(game:HttpGet(('https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/DetectGame.lua'),true))()
+
+local PikalyzixHub = GetPikaLibrary:StartWindow()
 
 if game.PlaceId == 1401417393 then
   PikalyzixHub:CreateButton("Ragdoll System Test", function()
