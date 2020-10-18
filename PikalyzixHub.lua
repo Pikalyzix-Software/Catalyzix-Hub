@@ -41,19 +41,18 @@ elseif pika_get_gitgc == 4169490976 then
     game:GetService("CoreGui")['Pikalyzix Hub']:Destroy()
   end)
 elseif pika_get_gitgc == 2686500207 then
-  getrenv_new__index:setmetacacheable("Mortem Metallum", function()
-	_new__index__IIiiiiiIIIIIiIIIIi('https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/MortemMetallum.lua')
+  getrenv_new__index:setmetacacheable("A Bizarre Day", function()
+	_new__index__IIiiiiiIIIIIiIIIIi('https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/ABD.lua')
     game:GetService("CoreGui")['Pikalyzix Hub']:Destroy()
   end)
-    loadstring(game:HttpGet(('https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/ABD.lua'),true))()
 elseif pika_get_gitgc == 23578803 then
   getrenv_new__index:setmetacacheable("Hotel Elephant", function()
 	_new__index__IIiiiiiIIIIIiIIIIi('https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/HOTELELEPHANT.lua')
     game:GetService("CoreGui")['Pikalyzix Hub']:Destroy()
   end) 
 elseif pika_get_gitgc == 2041312716 then
-  getrenv_new__index:setmetacacheable("Mortem Metallum", function()
-	_new__index__IIiiiiiIIIIIiIIIIi('https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/MortemMetallum.lua')
+  getrenv_new__index:setmetacacheable("Ragdoll Engine", function()
+	_new__index__IIiiiiiIIIIIiIIIIi('https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/RagdollEngine.lua')
     game:GetService("CoreGui")['Pikalyzix Hub']:Destroy()
   end)
 elseif pika_get_gitgc == 71315343 then
