@@ -16,7 +16,7 @@ if game.PlaceID == 1401417393 then
 elseif game.PlaceID == 4169490976 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/MortemMetallum.lua"))()
 elseif game.PlaceID == 2686500207 then
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/MortemMetallum.lua"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/ABD.lua"))()
 elseif game.PlaceID == 23578803 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/HOTELELEPHANT.lua"))()
 elseif game.PlaceID == 2041312716 then
