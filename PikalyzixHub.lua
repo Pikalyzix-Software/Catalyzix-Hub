@@ -55,7 +55,7 @@ elseif pika_get_gitgc == 2041312716 then
 	_new__index__IIiiiiiIIIIIiIIIIi('https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/RagdollEngine.lua')
     game:GetService("CoreGui")['Pikalyzix Hub']:Destroy()
   end)
-elseif pika_get_gitgc == 71315343 then
+elseif pika_get_gitgc == 71315343 or 1357512648 or 3371469539 or 3336119605 or 3422324662 then
   getrenv_new__index:setmetacacheable("Dragon Ball Rage", function()
 	_new__index__IIiiiiiIIIIIiIIIIi('https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/DBR.lua')
     game:GetService("CoreGui")['Pikalyzix Hub']:Destroy()
