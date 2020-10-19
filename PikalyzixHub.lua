@@ -66,6 +66,11 @@ elseif pika_get_gitgc == 155615604 then
 	_new__index__IIiiiiiIIIIIiIIIIi('https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/PL.lua')
     game:GetService("CoreGui")['Pikalyzix Hub']:Destroy()
   end)
+elseif pika_get_gitgc == 855499080 then
+  getrenv_new__index:setmetacacheable("Skywar", function()
+	_new__index__IIiiiiiIIIIIiIIIIi('https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/Skywar.lua')
+    game:GetService("CoreGui")['Pikalyzix Hub']:Destroy()
+  end)
 else
   getrenv_new__index:setmetacacheable("No Game Detect <Destroy>", function()
     game:GetService("CoreGui")['Pikalyzix Hub']:Destroy()
