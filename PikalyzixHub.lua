@@ -41,6 +41,8 @@ elseif game.PlaceID == 155615604 then
     loadstring(game:HttpGet(("https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/PL.lua"),true))()
 elseif game.PlaceID == 855499080 then
     loadstring(game:HttpGet(("https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/Skywar.lua"),true))()
+elseif game.PlaceID == 1962086868 or 2127551566 then
+    loadstring(game:HttpGet(("https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/TOH.lua"),true))()
 else
     StarterGui:SetCore("SendNotification", {
         Title = "Pikalyzix Hub | ERROR";
