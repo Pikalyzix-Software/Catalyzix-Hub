@@ -10,7 +10,7 @@
                       722485792076988586 - Pikalyzix#2012
                       757148941346144256 - Vaultary#0001
 --]]
-if syn then
+if syn and syn.cache_replace and syn.cache_invalidate and syn.is_cached and syn.write_clipboard and syn.set_thread_identity then
 game.StarterGui:SetCore("SendNotification", {
         Title = "Pikalyzix Hub | Exclusive";
         Text = "Synapse Support & Edition"
