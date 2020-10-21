@@ -11,6 +11,10 @@
                       757148941346144256 - Vaultary#0001
 --]]
 if syn then
+game.StarterGui:SetCore("SendNotification", {
+        Title = "Pikalyzix Hub | Exclusive";
+        Text = "Synapse Support & Edition"
+    })
 if game.PlaceId == 1401417393 then
 	loadstring(PlaceId:HttpGet(("https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/RagdollSystemTest.lua"),true))() 
 elseif game.PlaceId == 4169490976 then
@@ -44,16 +48,16 @@ elseif game.PlaceId == 855499080 then
 elseif game.PlaceId == 1962086868 or 2127551566 then
     loadstring(game:HttpGet(("https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/TOH.lua"),true))()
 else
-    StarterGui:SetCore("SendNotification", {
+    game.StarterGui:SetCore("SendNotification", {
         Title = "Pikalyzix Hub | ERROR";
         Text = "This game is not supported yet!"
     })
 end
-	StarterGui:SetCore("SendNotification", {
-        Title = "Pikalyzix Hub | Exclusive";
-        Text = "Synapse Support & Edition"
-    })
 else
+game.StarterGui:SetCore("SendNotification", {
+        Title = "Pikalyzix Hub | Normal";
+        Text = "Other Exploit Support & Edition"
+    })
 	if game.PlaceId == 1401417393 then
 	loadstring(PlaceId:HttpGet(("https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/RagdollSystemTest.lua"),true))() 
 elseif game.PlaceId == 4169490976 then
@@ -87,13 +91,9 @@ elseif game.PlaceId == 855499080 then
 elseif game.PlaceId == 1962086868 or 2127551566 then
     loadstring(game:HttpGet(("https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/TOH.lua"),true))()
 else
-    StarterGui:SetCore("SendNotification", {
+    game.StarterGui:SetCore("SendNotification", {
         Title = "Pikalyzix Hub | ERROR";
         Text = "This game is not supported yet!"
     })
 end
-	StarterGui:SetCore("SendNotification", {
-        Title = "Pikalyzix Hub | Normal";
-        Text = "Other Exploit Support & Edition"
-    })
 end
