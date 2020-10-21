@@ -95,6 +95,7 @@ else
         Title = "Pikalyzix Hub | ERROR";
         Text = "This game is not supported yet!"
     })
+    end
 else
 game.StarterGui:SetCore("SendNotification", {
         Title = "Pikalyzix Hub | Normal";
