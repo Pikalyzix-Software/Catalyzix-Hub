@@ -11,37 +11,37 @@
                       757148941346144256 - Vaultary#0001
 --]]
 
-if game.PlaceID == 1401417393 then
-	loadstring(game:HttpGet(("https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/RagdollSystemTest.lua"),true))() 
-elseif game.PlaceID == 4169490976 then
+if game.PlaceId == 1401417393 then
+	loadstring(PlaceId:HttpGet(("https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/RagdollSystemTest.lua"),true))() 
+elseif game.PlaceId == 4169490976 then
 	loadstring(game:HttpGet(("https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/MortemMetallum.lua"),true))()
-elseif game.PlaceID == 2686500207 then
+elseif game.PlaceId == 2686500207 then
 	loadstring(game:HttpGet(("https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/ABD.lua"),true))()
-elseif game.PlaceID == 23578803 then
+elseif game.PlaceId == 23578803 then
 	loadstring(game:HttpGet(("https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/HOTELELEPHANT.lua"),true))()
-elseif game.PlaceID == 2041312716 then
+elseif game.PlaceId == 2041312716 then
 	loadstring(game:HttpGet(("https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/RagdollEngine.lua"),true))()
-elseif game.PlaceID == 71315343 then
+elseif game.PlaceId == 71315343 then
 	loadstring(game:HttpGet(("https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/DBR.lua"),true))()
-elseif game.PlaceID ==  1357512648 then
+elseif game.PlaceId ==  1357512648 then
 	loadstring(game:HttpGet(("https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/DBR.lua"),true))()
-elseif game.PlaceID ==  3371469539 then
+elseif game.PlaceId ==  3371469539 then
 	loadstring(game:HttpGet(("https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/DBR.lua"),true))()
-elseif game.PlaceID ==  3336119605 then
+elseif game.PlaceId ==  3336119605 then
 	loadstring(game:HttpGet(("https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/DBR.lua"),true))()
-elseif game.PlaceID == 3422324662 then
+elseif game.PlaceId == 3422324662 then
 	loadstring(game:HttpGet(("https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/DBR.lua"),true))()
-elseif game.PlaceID == 537413528 then
+elseif game.PlaceId == 537413528 then
 	loadstring(game:HttpGet(("https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/BuildABoat.lua"),true))()
-elseif game.PlaceID == 189707 then
+elseif game.PlaceId == 189707 then
     loadstring(game:HttpGet(("https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/NaturalDisasterSurvival.lua"),true))()
-elseif game.PlaceID == 318978013 then
+elseif game.PlaceId == 318978013 then
 	loadstring(game:HttpGet(("https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/KickOff.lua"),true))()
-elseif game.PlaceID == 155615604 then
+elseif game.PlaceId == 155615604 then
     loadstring(game:HttpGet(("https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/PL.lua"),true))()
-elseif game.PlaceID == 855499080 then
+elseif game.PlaceId == 855499080 then
     loadstring(game:HttpGet(("https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/Skywar.lua"),true))()
-elseif game.PlaceID == 1962086868 or 2127551566 then
+elseif game.PlaceId == 1962086868 or 2127551566 then
     loadstring(game:HttpGet(("https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/TOH.lua"),true))()
 else
     StarterGui:SetCore("SendNotification", {
