@@ -10,7 +10,8 @@
                       722485792076988586 - Pikalyzix#2012
                       757148941346144256 - Vaultary#0001
 --]]
-
+if "Sentinel" then return
+else
 if game.PlaceId == 1401417393 then
 	loadstring(PlaceId:HttpGet(("https://raw.githubusercontent.com/Pikalyzix-Software/Pikalyzix-Software-Release/main/RagdollSystemTest.lua"),true))() 
 elseif game.PlaceId == 4169490976 then
@@ -48,4 +49,5 @@ else
         Title = "Pikalyzix Hub | ERROR";
         Text = "This game is not supported yet!"
     })
+end
 end
