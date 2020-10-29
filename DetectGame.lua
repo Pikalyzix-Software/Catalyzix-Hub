@@ -6,6 +6,7 @@ local function SendNotification(title,text,duration,...)
     Icon = "";
     Duration = duration;
   })
+end
 if game:FindFirstChild("CoreGui") then
 	if GameID == 2686500207 then
 		loadstring(game:HttpGet(('https://raw.githubusercontent.com/Pikalyzix-Software/Catalyzix-Hub/main/ABD.lua'),true))()
