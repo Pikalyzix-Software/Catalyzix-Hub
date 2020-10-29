@@ -14,7 +14,7 @@
 		      722485792076988586 - Catalyzix#2012
                       757148941346144256 - Vaultary#0001
 
---]]
+]]
 if game:FindFirstChild("CoreGui") then
 	loadstring(game:HttpGet(('https://raw.githubusercontent.com/Pikalyzix-Software/Catalyzix-Hub/main/DetectGame.lua'),true))()
 end
