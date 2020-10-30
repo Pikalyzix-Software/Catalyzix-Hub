@@ -12,7 +12,13 @@ if game:FindFirstChild("CoreGui") then
 		loadstring(game:HttpGet(('https://raw.githubusercontent.com/Pikalyzix-Software/Catalyzix-Hub/main/ABD.lua'),true))()
 	elseif GameID == 537413528 then
 		loadstring(game:HttpGet(('https://raw.githubusercontent.com/Pikalyzix-Software/Catalyzix-Hub/main/BuildABoat.lua'),true))()
-	elseif GameID == 71315343 or 3422324662 or 3336119605 or 1357512648 then
+	elseif GameID == 71315343 then
+		loadstring(game:HttpGet(('https://raw.githubusercontent.com/Pikalyzix-Software/Catalyzix-Hub/main/DBR.lua'),true))()
+	elseif GameID == 1357512648 then
+		loadstring(game:HttpGet(('https://raw.githubusercontent.com/Pikalyzix-Software/Catalyzix-Hub/main/DBR.lua'),true))()
+	elseif GameID == 3336119605 then
+		loadstring(game:HttpGet(('https://raw.githubusercontent.com/Pikalyzix-Software/Catalyzix-Hub/main/DBR.lua'),true))()
+	elseif GameID == 3422324662 then
 		loadstring(game:HttpGet(('https://raw.githubusercontent.com/Pikalyzix-Software/Catalyzix-Hub/main/DBR.lua'),true))()
 	elseif GameID == 23578803 then
 		loadstring(game:HttpGet(('https://raw.githubusercontent.com/Pikalyzix-Software/Catalyzix-Hub/main/HotelElephant.lua'),true))()
@@ -30,7 +36,9 @@ if game:FindFirstChild("CoreGui") then
 		loadstring(game:HttpGet(('https://raw.githubusercontent.com/Pikalyzix-Software/Catalyzix-Hub/main/RagdollSystemTest.lua'),true))()
 	elseif GameID == 855499080 then
 		loadstring(game:HttpGet(('https://raw.githubusercontent.com/Pikalyzix-Software/Catalyzix-Hub/main/Skywar.lua'),true))()
-	elseif GameID == 2127551566 or 1962086868 then
+	elseif GameID == 2127551566 then
+		loadstring(game:HttpGet(('https://raw.githubusercontent.com/Pikalyzix-Software/Catalyzix-Hub/main/TOH.lua'),true))()
+	elseif GameID == 1962086868 then
 		loadstring(game:HttpGet(('https://raw.githubusercontent.com/Pikalyzix-Software/Catalyzix-Hub/main/TOH.lua'),true))()
 	else
 		SendNotification("Catalyzix Hub - Error", "Game isn't supported yet!", 5)
